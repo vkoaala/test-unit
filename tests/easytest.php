@@ -1,6 +1,8 @@
 <?php
 
-namespace phpUnitTutorial\Test;
+namespace tests;
+
+use PHPUnit\Framework\TestCase;
 
 class easytest extends \PHPUnit_Framework_TestCase
 {
