@@ -11,7 +11,6 @@
          forceCoversAnnotation="true"
          verbose="true">
     <testsuite name="project">
-        <!--- <directory suffix="Test.php">../tests</directory> --->
 	<file>tests/easytest.php</file>
     </testsuite>
 
